@@ -1,8 +1,3 @@
-console.log('this is client side javascript file..');
-
-
-
-
 const form = document.querySelector('form');
 const input = document.querySelector('input');
 const msg1 = document.querySelector('#msg1');
